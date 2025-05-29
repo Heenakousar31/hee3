@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 riya
-=======
 i am working from japan
->>>>>>> 40a3f84297972c2369ecaba2905b607ac884d652
+
